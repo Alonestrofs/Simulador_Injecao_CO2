@@ -1,4 +1,4 @@
-# Simulador Numérico de Injeção de CO₂ (CCUS)
+# Simulador Numérico de Injeção de CO₂
 
 Este projeto implementa um modelo numérico unidimensional radial para simular a elevação da pressão em um aquífero salino durante a injeção de dióxido de carbono (CO₂).
 
