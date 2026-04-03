@@ -64,7 +64,7 @@ pip install numpy scipy matplotlib
 ```
 - Execute o script principal:
 ```
-python ccus_simulation.py
+python simulator.py
 ```
 
 ### Executando em C
