@@ -1,4 +1,4 @@
-Simulador Numérico de Injeção de CO₂ (CCUS)
+#Simulador Numérico de Injeção de CO₂ (CCUS)
 
 Este projeto implementa um modelo numérico unidimensional radial para simular a elevação da pressão em um aquífero salino durante a injeção de dióxido de carbono (CO₂).
 
@@ -73,4 +73,6 @@ python ccus_simulation.py
 gcc Simulator.c -o Simulator -lm
 ```
 - Execute o programa:
+```
 ./Simulator.c
+```
